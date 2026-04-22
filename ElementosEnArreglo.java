@@ -10,6 +10,9 @@ public class ElementosEnArreglo {
                 break;
             }
         }
+        if(!encontrado){
+            System.out.println(" Numero No Encontrado ");
+        }
     }
 }
 
